@@ -172,7 +172,7 @@ sudo apt remove <pkg>   # Remove package
 
 <br>
 
----
+
 
 **Happy Learning! 🚀**
 
