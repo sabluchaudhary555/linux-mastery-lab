@@ -335,16 +335,7 @@ command > output.txt
 
 # This captures errors too
 command &> output.txt
-```
 
-⚠️ **Pipe failures**: Later commands in pipe can fail silently
-```bash
-# Use pipefail to catch errors
-set -o pipefail
-command1 | command2 | command3
-```
-
----
 
 ## Best Practices
 
