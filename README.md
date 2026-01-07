@@ -24,6 +24,7 @@
 *Goal: Understand the "Linux way" of organizing data.*
 
 - [ ] **File Hierarchy Standard (FHS):** Understanding `/etc`, `/bin`, `/var`, `/home`, etc.
+    * 📂 Mini Project: [System Health Dashboard](./01-linux/p3-files-and-permissions/system-health-dashboard.py)
 - [ ] **File Permissions:** Understanding `rwx` (Read, Write, Execute) and Octal notation (755, 644).
 - [ ] **Ownership:** Using `chmod` and `chown`.
 - [ ] **Links:** Soft links (Symbolic) vs. Hard links.
@@ -46,4 +47,21 @@
 - [ ] **Logging:** Reading system logs in `/var/log`.
 - [ ] **Encryption:** Understanding SSH keys and basic file encryption.
 
+
+
+
+
+<br>
+
+
+
+**Happy Learning! 🚀**
+
+*Contributions and suggestions are welcome!*
+
 ---
+
+**Maintained by: [Sablu Chaudhary](https://github.com/sabluchaudhary555)** 🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/sablu-chaudhary555/) | [GitHub](https://github.com/sabluchaudhary555)
+
+---
+**Made with ❤️ for the Open Source Community**
