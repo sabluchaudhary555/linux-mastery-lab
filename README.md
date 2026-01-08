@@ -9,7 +9,8 @@
 - [ ] **Linux vs. Unix:** Understanding the key differences and similarities.
 - [ ] **Linux Architecture:** Hardware, Kernel, Shell, and User Space.
 - [ ] **Distributions (Distros):** Choosing the right one (Ubuntu, Mint, CentOS, Kali).
-- [ ] **Installation:** Setting up a Virtual Machine (VM), Dual Boot, or WSL.
+- [ ] **Installation:** Setting up a Virtual Machine (VM), Dual Boot, or WSL.   
+   * 📂 Mini Project: [Linux Boot Process Analyzer](./01-linux/p1-introduction/linux-boot-analyzer.py)
 
 ## 🟡 Phase 2: Mastering the Command Line (CLI)
 *Goal: Navigate the system without a mouse.*
@@ -19,6 +20,7 @@
 - [ ] **Viewing Files:** `cat`, `less`, `more`, `head`, `tail`.
 - [ ] **Searching & Filtering:** `grep`, `find`, `locate`.
 - [ ] **Standard I/O:** Redirection (`>`, `>>`) and Pipes (`|`).
+    * 📂 Mini Project: [Bash Command History Analyzer](./01-linux/p2-basic-commands/bash-history-analyzer.py)
 
 ## 🟠 Phase 3: File System & Permissions
 *Goal: Understand the "Linux way" of organizing data.*
@@ -26,6 +28,7 @@
 - [ ] **File Hierarchy Standard (FHS):** Understanding `/etc`, `/bin`, `/var`, `/home`, etc.
     * 📂 Mini Project: [System Health Dashboard](./01-linux/p3-files-and-permissions/system-health-dashboard.py)
 - [ ] **File Permissions:** Understanding `rwx` (Read, Write, Execute) and Octal notation (755, 644).
+    * 📂 Mini Project: [Permission Visualizer](./01-linux/p3-files-and-permissions/permission-visualizer.py)
 - [ ] **Ownership:** Using `chmod` and `chown`.
 - [ ] **Links:** Soft links (Symbolic) vs. Hard links.
 
@@ -48,10 +51,6 @@
 - [ ] **Encryption:** Understanding SSH keys and basic file encryption.
 
 
-
-
-
-<br>
 
 
 
