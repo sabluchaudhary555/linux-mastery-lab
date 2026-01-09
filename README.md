@@ -30,7 +30,9 @@
 - [ ] **File Permissions:** Understanding `rwx` (Read, Write, Execute) and Octal notation (755, 644).
     * 📂 Mini Project: [Permission Visualizer](./01-linux/p3-files-and-permissions/permission-visualizer.py)
 - [ ] **Ownership:** Using `chmod` and `chown`.
+    * 📂 Mini Project: [UMask Calculator](./01-linux/p3-files-and-permissions/umask-calculator.py)
 - [ ] **Links:** Soft links (Symbolic) vs. Hard links.
+    * 📂 Mini Project: [Link Manager](./01-linux/p3-files-and-permissions/link-manager.py)
 
 ## 🔴 Phase 4: Intermediate System Skills
 *Goal: Manage the "brain" of the computer.*
