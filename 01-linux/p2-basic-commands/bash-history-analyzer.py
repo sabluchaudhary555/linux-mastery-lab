@@ -341,7 +341,7 @@ if __name__ == "__main__":
     main()
 
     """
-    Bash History Analyzer
+      Bash History Analyzer
     Developed By SSoft.in
 
     """

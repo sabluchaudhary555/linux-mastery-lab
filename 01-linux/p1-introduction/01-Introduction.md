@@ -24,7 +24,7 @@ Linux is a **free and open-source operating system** based on Unix. It was creat
 ## Popular Linux Distributions
 
 | Distribution | Best For |
-|-------------|----------|
+| :--- | :--- |
 | **Ubuntu** | Beginners, Desktop users |
 | **Debian** | Stability, Servers |
 | **Fedora** | Latest features, Developers |
