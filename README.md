@@ -2,7 +2,7 @@
 
 **An industry-aligned roadmap designed to master Linux commands, networking, and automation.**
 
-## 🟢 Phase 1: Linux Basics & Introduction
+## 🟢 Phase 1: Linux Basics And Introduction
 *Goal: Understand what Linux is and get it running.*
 
 - [ ] **Introduction to Linux:** What is Linux? History and Open Source philosophy.
