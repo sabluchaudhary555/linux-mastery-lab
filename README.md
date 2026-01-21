@@ -44,8 +44,7 @@
 - [ ] **Disk Management:** `df`, `du`, `fdisk`, and mount points.
     * 📂 Mini Project: [System Update Notifier](p4-intermediate-system-skills/update-notifier.py)
 - [ ] **User & Group Management:** `useradd`, `groupadd`, `usermod`, `sudoers`.
-    * 📂 Mini Project: [Temp Access Granter](p4-intermediate-system-skills/temp-access-granter.py)
-
+    
 
 ## 🛡️ Phase 5: Networking & Security
 *Goal: Connect and protect your Linux machine.*
