@@ -52,8 +52,8 @@
 - [ ] **Networking Tools:** `ping`, `ifconfig` (or `ip`), `netstat`, `ssh`, `scp`.
     * 📂 Mini Project: [Network Health Monitor](p5-networking/network-health-monitor.py)
 - [ ] **Firewalls:** Basics of `iptables` or `ufw`.
+    * 📂 Mini Project: [Dynamic IP Blocker](p5-networking/dynamic-ip-blocker.py)
 - [ ] **Logging:** Reading system logs in `/var/log`.
-- [ ] **Encryption:** Understanding SSH keys and basic file encryption.
 
 
 
