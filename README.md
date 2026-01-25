@@ -54,7 +54,7 @@
 - [ ] **Firewalls:** Basics of `iptables` or `ufw`.
     * 📂 Mini Project: [Dynamic IP Blocker](p5-networking/dynamic-ip-blocker.py)
 - [ ] **Logging:** Reading system logs in `/var/log`.
-
+    * 📂 Mini Project: [Realtime Log Monitor](p5-networking/realtime-log-monitor.py)
 
 
 
