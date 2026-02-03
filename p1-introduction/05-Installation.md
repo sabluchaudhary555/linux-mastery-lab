@@ -232,13 +232,6 @@ sudo ./VBoxLinuxAdditions.run
 sudo reboot
 ```
 
-#### Enable Shared Folders
-
-1. VM → **Settings → Shared Folders**
-2. Click **+** icon
-3. Select folder on host
-4. Check **Auto-mount** and **Make Permanent**
-5. In Linux:
 
 ```bash
 # Add user to vboxsf group
